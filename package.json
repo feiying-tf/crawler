@@ -1,0 +1,23 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "node crawler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tfeng-use/crawler.git"
+  },
+  "author": "tangfeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tfeng-use/crawler/issues"
+  },
+  "homepage": "https://github.com/tfeng-use/crawler#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "puppeteer": "^1.14.0"
+  }
+}
